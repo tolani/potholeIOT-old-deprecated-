@@ -1,0 +1,1 @@
+ts_start,ts_end,mean_ax,mean_ay,mean_az,mean_gx,mean_gy,mean_gz,sd_ax,sd_ay,sd_az,sd_gx,sd_gy,sd_gz,min_ax,min_ay,min_az,min_gx,min_gy,min_gz,max_ax,max_ay,max_az,max_gx,max_gy,max_gz,label
